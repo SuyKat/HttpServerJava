@@ -1,4 +1,4 @@
-package myServer;
+package com.suyog.server;
 
 import java.io.File;
 import java.io.FileInputStream;

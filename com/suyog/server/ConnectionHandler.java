@@ -1,4 +1,4 @@
-package myServer;
+package com.suyog.server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

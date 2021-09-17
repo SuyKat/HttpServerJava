@@ -1,4 +1,4 @@
-package myServer;
+package com.suyog.server;
 
 import java.net.ServerSocket;
 import java.net.Socket;

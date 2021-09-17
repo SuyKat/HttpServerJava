@@ -1,4 +1,4 @@
-package myServer;
+package com.suyog.server;
 
 public class HttpRequest {
 	public String filename;

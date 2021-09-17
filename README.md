@@ -1,2 +1,2 @@
 # HttpServerJava
-This is a staic http server.
+This is a static http server.
